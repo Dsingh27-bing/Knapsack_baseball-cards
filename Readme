@@ -1,0 +1,4 @@
+C++
+to execute the code please do following steps :
+step1 : make
+step 2: ./program1 -m market_price.txt -p price_list.txt
